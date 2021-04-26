@@ -7,9 +7,20 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@desislavsd/vue-select": "^0.5.2",
+    "@popperjs/core": "^2.9.2",
+    "@vuelidate/core": "^2.0.0-alpha.16",
+    "@vuelidate/validators": "^2.0.0-alpha.13",
     "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "select2": "^4.1.0-rc.0",
+    "v-calendar": "^3.0.0-alpha.3",
+    "vee-validate": "^4.3.1",
     "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0"
+    "vue-router": "^4.0.0-0",
+    "vue3-select2-component": "^0.1.7",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
